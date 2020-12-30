@@ -1,0 +1,24 @@
+@charset "ISO-8859-1";
+
+.cuadradoLogin
+{
+	position: relative;
+	top: 50px;
+}
+
+.cuadradoMensajes
+{
+	position: relative;
+	top: 150px;
+	left: 47%;
+}
+
+.nuevoUsuario
+{
+	position: relative;
+	top: 100px;
+	left: 45%;
+	font-family: arial;
+	font-size: 18pt;
+	color: crimson;
+}

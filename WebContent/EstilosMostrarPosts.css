@@ -1,0 +1,71 @@
+.postPrincipal
+{
+	position: relative;
+	top: 70px;
+	padding: 10px 10px;
+    border: black 5px solid;
+    border-radius: 20px;
+}
+
+.parteArriba
+{
+	
+}
+
+.informacionUsuario
+{
+
+}
+
+.Cuerpo
+{
+	position: relative;
+	top: -80px;
+	left: 250px;
+}
+
+.parteAbajo
+{
+	position: relative;
+	top: -50px;
+	left: 300px;
+}
+
+.likes
+{
+	
+}
+
+.fechaDePosteo
+{
+	position: relative;
+	left: 20px;
+}
+
+.comentariosAll
+{
+	position: relative;
+	top: 250px;
+}
+
+.comentarios
+{
+	padding: 3px 10px;
+    border: black 5px dashed;
+    border-radius: 20px;
+}
+
+.informacionUsuarioComentario
+{
+	
+}
+
+.botonEditar
+{
+	
+}
+
+.botonEliminar
+{
+	
+}

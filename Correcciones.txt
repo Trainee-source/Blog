@@ -1,0 +1,12 @@
+contraseña no visible al logearse 					--
+abml categorias completo en administrador				--
+no funciona el msotrar fotos en psoteo					--
+carteles aclaratorios ( pj: psoteo agregado, posteo editado etc)	--
+visualizar categoria en los posteos y permitir filtros por categoria	--
+agregar paginacion en listado numerosos (comentarios - posteos)		<-
+mostrar usuario que comenta en la seccion comentarios			--
+falta puntaje (1 like por usuario)					--
+falta reporte(rango de fechas, categoria mas usada)			--
+moderar los comentarios							--
+
+therrera@docentes.frgp.utn.edu.arg
